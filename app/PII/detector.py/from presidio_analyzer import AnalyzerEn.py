@@ -8,4 +8,4 @@ def detect_pii(text):
         language="en"
     )
 
-    return resul
+    return result
